@@ -1,3 +1,0 @@
-[RSW::ERR]
-[RSW::NAME] :~> @mywasm/foo
-[RSW::BUILD] :~> wasm-pack build .\@mywasm/foo --out-dir pkg --target web --release --scope mywasm
